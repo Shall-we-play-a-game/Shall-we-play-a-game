@@ -1,7 +1,7 @@
 - 👋 	Hi, I’m @Shall-we-play-a-game
 - 👀 I’m interested in Hacking,Web-development
-- 🌱 	I’m currently learning Python,JAVA
-- 💞️ I’m looking to collaborate on Python teacher
+- 🌱 	I’m currently learning JavaScript/DSA
+- 💞️ I’m looking to collaborate In JavaScript Teaching
 - 📫 	How to reach me email: mr.imk.khan@gmail.com
 
 <!---
